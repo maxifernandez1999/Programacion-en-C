@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586261102 source:c:\users\polaco\desktop\progrlab.c\ejemplo_1_clase4\main.c
+	<stdio.h>
+	<stdlib.h>
+

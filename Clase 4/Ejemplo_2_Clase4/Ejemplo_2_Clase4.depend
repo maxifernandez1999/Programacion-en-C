@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586453404 source:c:\users\polaco\desktop\progrlab.c\ejemplo_2_clase4\main.c
+	<stdlib.h>
+	<stdio.h>
+	"Funciones.c"
+	"Funciones.h"
+
+1586453421 c:\users\polaco\desktop\progrlab.c\ejemplo_2_clase4\funciones.h
+
+1586453421 c:\users\polaco\desktop\progrlab.c\ejemplo_2_clase4\funciones.c
+
